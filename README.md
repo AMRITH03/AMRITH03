@@ -1,25 +1,136 @@
-# Hello there!, I'm Amrith 👋
+<!--HEADER SECTION -->
+<h1 align="center">
+  <a href="https://github.com/AMRITH03">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AMRITH%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Amrith B" /></a>
+</h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrith03&label=Profile%20views&color=0e75b6&style=flat" alt="amrith03" /> </p>
+<!--TOOL BOX SECTION -->
+<details open>
+<summary><h2>Tool kit</h2></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrith03" alt="amrith03" /></a> </p>
+> Tools, languages, and other things that I like to work with.
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+        </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+       </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" width="48" height="48" alt="Assembly" />
+      </a>
+      <br>Assembly
+    </td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="48" height="48" alt="React" />
+      </a>
+      <br>ReactJS
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" width="48" height="48" alt="Next" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img width="48" height="48" alt="Gradle" src="https://github.com/user-attachments/assets/67c35b9d-b847-418b-a7a6-9deb25728fd7" />
+      </a>
+      <br>Gradle
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+         <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img align="left"  src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+</details>
+<!--STATS SECTION -->
+<details> 
+  <summary><h2>Stats and Activity</h2></summary>
+    <div align=left>
+      <img src = "https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" >
+  </div>
+  
+</details>
 
-<h3 align="left">Connect with me?</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/AmrithB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrith b" height="30" width="40" /></a>
-<a href="https://instagram.com/amrith__25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrith__25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amrith2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrith2503" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amrith1uju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amrith1uju" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrith03&show_icons=true&locale=en&layout=compact" alt="amrith03" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrith03&show_icons=true&locale=en" alt="amrith03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrith03&" alt="amrith03" /></p>
