@@ -6,8 +6,16 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
+
+## About Me
+ - 0️⃣1️⃣ Interested in all aspects of low-level and high-level computation.
+ - 📈 Actively involved in Competitive Programming.
+ - 🧠 Focused on creating intelligent, data-driven applications.
+ - 👾 Exploring Edge Computing and Cyber Security.
+ - 🕸️ Building scalable and user-friendly web interfaces.
+
 <details open>
-<summary><h2>Reach Out</h2></summary>
+<summary><h2>Reach Out To Me?</h2></summary>
 <a href="https://www.linkedin.com/in/amrithb/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a46c68bc-a263-4def-9840-e9146dd04d1d" /></a>
 <a href="mailto:amrith2503@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a>
 </details>
@@ -131,14 +139,19 @@
   </tr>
 </table>
 </details>
+
+
 <!--STATS SECTION -->
-<details> 
+<details open> 
   <summary><h2>Stats and Activity</h2></summary>
+  
+> GitHub Stats and Activity 
+  
   <div align=center>
     
 [![AMRITH03's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AMRITH03&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/AMRITH03/github-readme-activity-graph)
 
-  <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" alt="AMRITH03 GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=AMRITH03&theme=meta-dark&background=00000000" alt="GitHub Streak">
+  <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" width=480 alt="AMRITH03 GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=AMRITH03&theme=meta-dark&background=00000000" width=508 alt="GitHub Streak">
 </details>
 
