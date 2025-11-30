@@ -151,7 +151,15 @@
     
 [![AMRITH03's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AMRITH03&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/AMRITH03/github-readme-activity-graph)
 
-  <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" width=480 alt="AMRITH03 GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=AMRITH03&theme=meta-dark&background=00000000" width=508 alt="GitHub Streak">
+<table border= "0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" alt="AMRITH03 GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=AMRITH03&theme=meta-dark&background=00000000" alt="AMRITH03 GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 </details>
 
