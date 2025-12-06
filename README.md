@@ -1,7 +1,7 @@
 <!--HEADER SECTION -->
 <h1 align="center">
   <a href="https://github.com/AMRITH03">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AMRITH%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Amrith B" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Amrith%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Amrith B" /></a>
 </h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
