@@ -134,6 +134,13 @@
       </a>
       <br>MongoDB
     </td>
+    </td>
+    <td align="center" width="96">
+    <a href="#macropower-tech">
+      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/go-programming-language.png" alt="go-programming-language"/>
+    </a>
+    <br>GO
+  </td>
   </tr>
 </table>
 </details>
