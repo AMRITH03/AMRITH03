@@ -8,11 +8,9 @@
 
 
 ## About Me
- - 0️⃣1️⃣ Interested in all aspects of low-level and high-level computation.
- - 📈 Actively involved in Competitive Programming.
- - 🧠 Focused on creating intelligent, data-driven applications.
- - 👾 Exploring Edge Computing and Cyber Security.
- - 🕸️ Building scalable and user-friendly web interfaces.
+ - Interested in all aspects of low-level and high-level computation.
+ - Actively involved in Competitive Programming, Neural Networks & deep learning.
+ - Focused on creating intelligent, data-driven applications.
 
 <details open>
 <summary><h2>Reach Out To Me?</h2></summary>
